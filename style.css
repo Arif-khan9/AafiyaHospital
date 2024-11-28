@@ -1,0 +1,665 @@
+.container {
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+}
+
+.logoimg {
+    height: 70px;
+    width: 70px;
+    position: relative;
+    left: 50px;
+}
+
+.healing {
+    position: relative;
+    bottom: 21px;
+}
+
+.aafiya {
+    position: relative;
+    top: 7px;
+}
+
+.icon {
+    font-size: 40px;
+}
+
+.secmedical {
+    position: relative;
+    bottom: 3.9rem;
+    left: 45px;
+}
+
+.book {
+    position: relative;
+    bottom: 4.5rem;
+    left: 45px;
+    font-weight: bolder;
+}
+
+.flag {
+    font-size: 50px;
+    color: red;
+}
+
+.creatdown {
+    position: relative;
+    bottom: 10px;
+    color: blue;
+}
+
+.logo {
+    position: relative;
+    bottom: 14px;
+    left: 70px;
+}
+
+.container2 {
+    background-color: #00d5ff;
+    height: 50px;
+    position: relative;
+    bottom: 70px;
+
+}
+
+.box {
+    display: flex;
+    gap: 30px;
+    position: relative;
+    top: 15px;
+    padding-left: 70px;
+    color: white;
+    font-weight: bold;
+}
+
+.icon2 {
+    position: relative;
+    top: 4px;
+
+}
+
+.input {
+    padding: 16px 24px 16px 60px;
+    position: relative;
+    bottom: 15px;
+    left: 9rem;
+    background-color: blue;
+    border: 1px solid blue;
+
+}
+
+.icon3 {
+    font-size: 30px;
+    position: relative;
+    right: 5.8rem;
+    bottom: 3px;
+}
+
+.container123 {
+    background-image: url(img1.jfif);
+    height: 20rem;
+    position: relative;
+    bottom: 70px;
+    background-size: cover;
+
+}
+
+.box32 {
+    color: white;
+    padding-left: 69px;
+    padding-top: 3rem;
+}
+
+.icon32 {
+    color: red;
+    position: relative;
+    top: 4px;
+}
+
+.heading {
+    font-size: 37px;
+}
+
+.btn1 {
+    padding: 12px 45px;
+    background-color: #00d5ff;
+    border: 1px solid #00d5ff;
+    color: white;
+    font-size: 15px;
+    position: relative;
+    top: 12px;
+}
+
+.container11 {
+    display: flex;
+    gap: 30px;
+    position: relative;
+    bottom: 50px;
+    margin-left: 3.9rem;
+
+}
+
+.box2121 {
+    background-color: unset;
+    height: 32rem;
+    width: 38rem;
+    position: relative;
+    top: 35px;
+}
+
+.container2121 {
+    display: flex;
+    justify-content: center;
+    background-color: unset;
+    position: relative;
+    bottom: 35px;
+    border-top: 1px solid gray;
+}
+
+.img2 {
+    height: 32rem;
+    width: 40rem;
+}
+
+.doct {
+    color: red;
+}
+
+.box545 {
+    background-color: unset;
+    height: 28rem;
+    width: 52rem;
+    border-bottom: 1px dotted #00d5ff;
+}
+
+.box546 {
+    background-color: gainsboro;
+    height: 33rem;
+    width: 22.5rem;
+}
+
+.container545 {
+    display: flex;
+    justify-content: center;
+    gap: 41px;
+    margin-top: 50px;
+}
+
+.inputa {
+    padding: 12px 4rem;
+    margin: 10px;
+    margin-left: 28px;
+}
+
+.inputab {
+    padding: 50px 4rem;
+    margin: 10px;
+    margin-left: 28px;
+}
+
+.sendbtn {
+    padding: 15px 6.8rem;
+    margin-left: 28px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+.needhelp {
+    margin-left: 28px;
+    color: blue;
+}
+
+.paragaraph12 {
+    margin-left: 28px;
+}
+
+.box547 {
+    background-color: unset;
+    height: 28rem;
+    width: 52rem;
+    border-bottom: 1px dotted #00d5ff;
+    margin-left: 45px;
+    position: relative;
+    bottom: 45px;
+}
+
+.containeravc {
+    background-color: unset;
+    height: 26rem;
+    width: 52rem;
+    margin-left: 45px;
+    border-bottom: 1px dotted #00d5ff;
+}
+
+.boxzyt {
+    background-color: unset;
+    /* margin: 10px; */
+    padding: 15px;
+    border-top: 1px solid gray;
+}
+
+.boxzyz {
+    background-color: unset;
+    padding: 10px;
+    border-top: 1px solid #00d5ff;
+    border-bottom: 1px solid #00d5ff;
+}
+
+.ipsum {
+    background-color: unset;
+    border-left: 1px solid #00d5ff;
+}
+
+.boxzym {
+    padding: 15px;
+    border-bottom: 1px solid gray;
+}
+
+.iconab {
+    color: #00d5ff;
+}
+.container556{
+    background-color: unset;
+    height: 29rem;
+    width: 52rem;
+    margin-left: 45px;
+    margin-top: 5rem;
+}
+.Patient{
+    padding-left: 40px;
+}
+.containerlink{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.procedure{
+    font-size: 19px;
+    padding-left: 20px;
+    padding-top: 7px;
+}
+.img6{
+    height:12rem ;
+    width:20rem;
+    padding-left:20px;
+}
+.boxluke{
+    height: 20rem;
+    width: 23rem;
+    background-color: unset;
+    border: 1px solid black;
+}
+.docteras{
+    height: 30px ;
+    width: 30px;
+    padding-left: 20px;
+    padding-top: 10px;
+   border-radius: 50%;
+}
+.olfert{
+    display: flex;
+}
+.olferts{
+    display: flex;
+    position: relative;
+    bottom: 14px;
+}
+.container0o01{
+    display: flex;
+    justify-content: center;
+    padding-top: 55px;
+    gap: 10px;
+}
+.luke{
+    padding-left: 15px;
+    padding-top: 7px;  
+}
+.oneare{
+    font-weight: bold;
+}
+.container432{
+    background-color: gainsboro;
+    height: 33rem;
+    padding-top: 50px;
+}
+.Doclors{
+    padding-left: 40rem;
+    bottom: 2rem;
+    font-size: 1.5rem;
+    color: red;
+}
+.Orthopaedic{
+    padding-left: 32rem;
+    position: relative;
+    bottom: 64px;
+}
+.Docters{
+    color: #00d5ff;
+}
+.box432{
+    height: 20rem;
+    width: 17rem;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+}
+.containerabcf{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+    bottom: 55px;
+}
+.boxcc12{
+    height: 13rem;
+    width: 15rem;
+    background-color: palevioletred;
+   position: absolute;
+   top: 15px;
+}
+.box000{
+   position: relative; 
+   top: 14.7rem;
+    
+}
+.Faique{
+    padding-left: 57px;
+    font-weight: bold;
+    color: red;
+}
+.Musaffah{
+    position: relative;
+    top: 7px;
+    font-weight: bolder;
+}
+.Specialist{
+    padding-left: 22px;
+    position: relative;
+    bottom: 3px;
+}
+.boxnnn{
+    height: 8px;
+    width: 8px;
+    background-color: gray;
+    border-radius: 50px;
+    position: relative;
+    bottom: 20px;
+}
+.boxnnz{
+    height: 8px;
+    width: 8px;
+    background-color:#00d5ff ;
+    border-radius: 50px;
+    position: relative;
+    bottom: 20px;
+}
+.container0o0o{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+
+}
+.Recommended{
+    position: relative;
+    bottom: 3.6rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.Hospital{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: red;
+}
+.Hospitals{
+    color: #00d5ff;
+}
+.boxxxx{
+    height: 24rem;
+    width: 22rem;
+    background-color: unset;
+    border: 1px dotted red;
+    border-radius: 5px;
+   
+}
+.img3{
+    width: 22rem; 
+    height: 18rem;
+    border-radius: 5px;
+}
+.containerxxx{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    bottom: 4rem;
+}
+.containerapollo{
+    display: flex;
+    justify-content: center;
+}
+.Apollo{
+ font-size: 20px;
+ font-weight: bold;
+ position: relative;
+ bottom: 9px;
+}
+.Bangalore{
+    font-size: 19px;
+    position: relative;
+    bottom: 37px;
+    font-weight: bold;
+    color: red;
+}
+.containerpagh{
+    display: flex;
+    justify-content: center;
+}
+.Explore{
+    position: relative;
+    top: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+    left: 3px;
+}
+.hesitate{
+    font-weight: bold
+}
+.containerooo{
+    height: 15rem;
+    background-color: #00d5ff;
+    margin-top: 30px;
+}
+.boxooo{
+    display: block;
+}
+.containerooo{
+    display: flex;
+    justify-content: center;
+}
+.strong{
+    padding-left: 15rem;
+    position: relative;
+    top: 30px;
+    color: white;
+}
+.healthcare{
+    position: relative;
+   color: white;
+    font-size: 3rem;
+}
+.container434300{
+   display: flex;
+   justify-content: center;
+   gap: 10px;
+   position: relative;
+   bottom: 15px;
+}
+.getintouch{
+    padding: 10px 40px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+}
+.number{
+    font-size: 24px;
+    background-color:unset;
+    color: white;
+    padding-top: 5px;
+    border-left: 1px solid white;
+    font-weight: bold;
+}
+.container7878{
+    height: 40rem;
+    background-color: black;
+    /* display: flex; */
+}
+.box7878{
+    height:23rem;
+    width: 75rem;
+    background-color: unset;
+    margin-left: 4.5rem;
+    display: flex;
+    gap: 20px;
+}
+.box7879{
+    height:17rem;
+    width: 75rem;
+    background-color:unset;
+    margin-left: 4.5rem;
+    border-top: 1px solid gray;
+}
+.box4563{
+    height:23rem;
+    width: 18rem;
+    background-color: unset;
+    color: white;
+}
+.container0909{
+   display: inline;
+}
+.Important{
+    font-weight: bold;
+}
+.iconast{
+    color: #00d5ff;
+}
+.homsk{
+    padding-left: 6px;
+}
+.box0mnk{
+    height: 10rem;
+    width: 17.8rem;
+    background-color: white;
+    position: relative;
+    bottom: 30px;
+    border-radius: 5px;
+    color: black;
+}
+.personadd{
+    font-size: 45px;
+    padding-left: 20px;
+    padding-top: 20px;
+    color: #00d5ff;
+}
+.container4058{
+    display: flex;
+}
+.lastzym{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.join{
+    font-weight: bolder;
+    font-size: 19px;
+}
+.consectetur{
+    padding-left: 20px;
+    position: relative;
+    bottom: 15px;
+}
+.box6yt{
+    height: 17rem;
+    width: 25rem;
+    background-color:unset;
+}
+.box6ys{
+    height: 17rem;
+    width: 33rem;
+    background-color: unset;
+}
+.box6yr{
+    height: 17rem;
+    width: 17rem;
+    background-color: unset;
+}
+.box7879{
+    display: flex;
+}
+.containeraaafiya{
+    display: flex;
+    padding-top: 5rem;
+    padding-left: 4rem;
+}
+.logoimgs{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+}
+.onct{
+    color: white;
+}
+.affiyonh{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-left: 8px;
+    color: white;
+}
+.onrten{
+    font-size: 17px;
+    position: relative;
+    bottom: 19px;
+    font-weight: 100;
+    color: white;
+}
+.ontyr{
+   position: relative;
+   top:6px;
+   color: white;
+}
+.iconlast{
+    font-size: 35px;
+    color: blueviolet;
+}
+.fallolast{
+    font-size: 21px;
+    padding-top: 18px;
+    color: white;
+}
+.costmerlast{
+    font-size: 18px;
+    color: white;
+}
+.numberlast{
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    bottom: 19px;
+    color: #00d5ff;
+    color: white;
+}
+.containerlastfooter{
+    height: 4rem;
+    background-color: #00d5ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25rem;
+    color: white;
+}
+.lastfooter{
+    padding-right: 20px;
+}
